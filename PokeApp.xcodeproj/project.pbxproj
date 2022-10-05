@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE7F391E28E3F40900879795 /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7F391D28E3F40900879795 /* Pokemon.swift */; };
 		CEAA5BE628DC953E0050F059 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAA5BE528DC953E0050F059 /* AppDelegate.swift */; };
 		CEAA5BE828DC953E0050F059 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAA5BE728DC953E0050F059 /* SceneDelegate.swift */; };
 		CEAA5BEA28DC953E0050F059 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAA5BE928DC953E0050F059 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CE7F391D28E3F40900879795 /* Pokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
 		CEAA5BE228DC953E0050F059 /* PokeApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokeApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEAA5BE528DC953E0050F059 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEAA5BE728DC953E0050F059 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				CEAA5BE528DC953E0050F059 /* AppDelegate.swift */,
 				CEAA5BE728DC953E0050F059 /* SceneDelegate.swift */,
 				CEAA5BE928DC953E0050F059 /* ViewController.swift */,
+				CE7F391D28E3F40900879795 /* Pokemon.swift */,
 				CEAA5BEB28DC953E0050F059 /* Main.storyboard */,
 				CEAA5BEE28DC953F0050F059 /* Assets.xcassets */,
 				CEAA5BF028DC953F0050F059 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CEAA5BEA28DC953E0050F059 /* ViewController.swift in Sources */,
+				CE7F391E28E3F40900879795 /* Pokemon.swift in Sources */,
 				CEAA5BE628DC953E0050F059 /* AppDelegate.swift in Sources */,
 				CEAA5BE828DC953E0050F059 /* SceneDelegate.swift in Sources */,
 			);
